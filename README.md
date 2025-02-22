@@ -2,7 +2,7 @@
 
 This project focuses on **data preprocessing, exploratory data analysis (EDA), dimensionality reduction (PCA), and clustering** using a marketing campaign dataset. The goal is to analyze customer behavior, detect patterns, and segment customers based on their purchasing habits.
 
-## 🚀 Features
+## Features
 
 **Data Cleaning & Preprocessing:**  
 - Handling missing values  
@@ -24,7 +24,7 @@ This project focuses on **data preprocessing, exploratory data analysis (EDA), d
 
 ---
 
-## 📂 Dataset  
+## Dataset  
 
 The dataset consists of customer demographics, transaction history, and campaign response data.  
 **Columns include:**  
@@ -33,7 +33,7 @@ The dataset consists of customer demographics, transaction history, and campaign
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 - **Python**
 - **Pandas & NumPy** (Data manipulation)  
